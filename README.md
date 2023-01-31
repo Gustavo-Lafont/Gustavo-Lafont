@@ -1,4 +1,4 @@
-### Hellow, World! 
+### Hello, World! 
 ## I'm Gustavo Lafão 
 ## Dev Junior Front-end
 
