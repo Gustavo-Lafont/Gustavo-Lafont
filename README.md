@@ -3,9 +3,9 @@
 ## Dev Junior Front-end
 
 ### GitHub Stats
- <div style="display: inline_block">
+ <div>
   <a href="[https://github.com/Gustavo-Lafont](https://github.com/Gustavo-Lafont)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Lafontl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Lafont&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Lafont&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
